@@ -1,5 +1,5 @@
 ## 👟 Sneakers App
-A modern and elegant sneaker showcase built with React, CSS, and Framer Motion.  <br>
+A modern and elegant sneakers showcase built with React, CSS and Framer Motion.  <br>
 This app allows users to browse and search for sneakers, view detailed product info, and enjoy a smooth user experience with animations and responsive design.
 
 ## 🚀 Features
@@ -30,7 +30,7 @@ This app allows users to browse and search for sneakers, view detailed product i
 
 
 ## 🌐 Live Demo
-<a href="https://sneakers-app-dejvcodes.netlify.app/">Sneaker Shop App</a>
+<a href="https://sneakers-app-dejvcodes.netlify.app/">Sneaker App</a>
 
 ## 🔐 License
 [MIT License](LICENSE)
