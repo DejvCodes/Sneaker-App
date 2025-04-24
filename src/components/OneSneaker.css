@@ -1,0 +1,53 @@
+.one-sneaker {
+  width: 270px;
+  height: 360px;
+  border-radius: 22px;
+  box-shadow: 0 0 10px #FFF;
+  border: 1px solid #FFF;
+  transition: all 0.2s linear;
+  padding: 22px;
+}
+.one-sneaker:hover {
+  box-shadow: 0 0 15px #FFF;
+}
+.one-sneaker img {
+  width: 100%;
+  height: 180px;
+  object-fit: cover;
+  border-radius: 12px;
+  margin-bottom: 7px;
+}
+.one-sneaker p:nth-child(2) {
+  color: var(--style-color);
+  font-size: 16px;
+  font-weight: 600;
+  -webkit-box-reflect: below 2px linear-gradient(transparent, #0005);
+  line-height: 0.7em;
+  margin-bottom: 12px;
+}
+.one-sneaker h3 {
+  font-size: 16px;
+  font-weight: 500;
+  margin-bottom: 20px;
+}
+.one-sneaker .more-info {
+  display: flex;
+  align-items: end;
+  justify-content: space-between;
+}
+.one-sneaker .more-info p {
+  font-size: 17px;
+}
+.one-sneaker .more-info a {
+  color: #FFF;
+  font-size: 15px;
+  border-radius: 8px;
+  text-decoration: none;
+  transition: all 0.2s linear;
+  box-shadow: 0 0 5px #FFF;
+  border: 1.5px solid #FFF;
+  padding: 2px 20px;
+}
+.one-sneaker .more-info a:hover {
+  transform: scale(1.05);
+}

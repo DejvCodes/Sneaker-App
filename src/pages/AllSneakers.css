@@ -1,0 +1,66 @@
+section.all-sneakers-section {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+}
+section.all-sneakers-section .container {
+  max-width: 1270px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 40px 20px;
+}
+section.all-sneakers-section .container h2 {
+  font-size: 26px;
+  letter-spacing: 1px;
+  font-weight: 500;
+  margin-block: 15px;
+}
+section.all-sneakers-section .container form {
+  width: 280px;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 35px;
+}
+section.all-sneakers-section .container form input[type="text"] {
+  color: #FFF;
+  background: #0F0F0F;
+  font-size: 16px;
+  box-shadow: 0 0 7px 2px #FFF;
+  border: 1px solid #FFF;
+  border-radius: 4px;
+  padding: 10px;
+  outline: none;
+}
+section.all-sneakers-section .container .all-sneakers {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 25px;
+}
+.no-results {
+  color: #FFF;
+  max-width: 320px;
+  font-size: 16px;
+  text-align: center;
+  border: 1px dashed #fff4;
+  border-radius: 4px;
+  animation: fadeIn 0.2s ease-in forwards;
+  padding: 12px;
+  opacity: 0;
+}
+@keyframes fadeIn {
+  to { opacity: 1 }
+}
+
+/* ---------- RESPONSIVE DESIGN ---------- */
+@media screen and (max-width: 1150px) {
+  section.all-sneakers-section .container {
+    margin: 40px 40px;
+  }
+}
+@media screen and (max-width: 660px) {
+  section.all-sneakers-section .container {
+    margin: 30px 10px;
+  }
+}
