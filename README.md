@@ -19,9 +19,9 @@ This app allows users to browse and search for sneakers, view detailed product i
     • git clone https://github.com/DejvCodes/Sneakers-App.git <br>
     • cd Sneakers-App <br>
 2. Install dependencies
-    • npm install react-router-dom
-    • npm install prop-types
-    • npm install framer-motion
+    • npm install react-router-dom <br>
+    • npm install prop-types <br>
+    • npm install framer-motion <br>
 3. Open index.html in a live server or browser <br>
     • npm start <br>
 
