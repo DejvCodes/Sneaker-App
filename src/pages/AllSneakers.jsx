@@ -3,7 +3,6 @@ import data from "../data/data"
 import { useEffect, useState } from "react"
 import OneSneaker from "../components/OneSneaker"
 
-
 const AllSneakers = () => {
   const [searchingSneaker, setSearchingSneaker] = useState("")
   const [filteredSneakers, setFilteredSneakers] = useState(data)
@@ -13,7 +12,7 @@ const AllSneakers = () => {
       setFilteredSneakers(data)
       return
     }
-    const sneakersAfterFilter = data.filter(({fullName, brand}) => {
+    const sneakersAfterFilter = data.filter(({ fullName, brand }) => {
       const term = searchingSneaker.toLowerCase()
       return fullName.toLowerCase().includes(term) || brand.toLowerCase().includes(term)
     })
