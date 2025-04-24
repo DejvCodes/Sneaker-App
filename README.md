@@ -28,7 +28,6 @@ This app allows users to browse and search for sneakers, view detailed product i
 ## 💻 Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react)](https://skillicons.dev)
 
-
 ## 🌐 Live Demo
 <a href="https://sneakers-app-dejvcodes.netlify.app/">Sneaker App</a>
 
