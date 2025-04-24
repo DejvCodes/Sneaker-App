@@ -33,4 +33,4 @@ This app allows users to browse and search for sneakers, view detailed product i
 <a href="https://sneakers-app-dejvcodes.netlify.app/">Sneaker App</a>
 
 ## 🔐 License
-[MIT License](LICENSE)
+[MIT License](LICENSE) 
