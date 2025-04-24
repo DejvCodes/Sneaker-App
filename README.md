@@ -1,4 +1,4 @@
-## 👟 Sneaker App
+## 👟 Sneakers App
 A modern and elegant sneaker showcase built with React, CSS, and Framer Motion.  <br>
 This app allows users to browse and search for sneakers, view detailed product info, and enjoy a smooth user experience with animations and responsive design.
 
@@ -22,7 +22,7 @@ This app allows users to browse and search for sneakers, view detailed product i
     • npm install react-router-dom <br>
     • npm install prop-types <br>
     • npm install framer-motion <br>
-3. Open index.html in a live server or browser <br>
+3. Open in a live server or browser <br>
     • npm start <br>
 
 ## 💻 Tech Stack
