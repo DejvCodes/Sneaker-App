@@ -4,7 +4,7 @@ section.one-sneaker-details-section {
   justify-content: center;
 }
 section.one-sneaker-details-section .container {
-  width: 85%;
+  max-width: 1270px;
   display: flex;
   flex-direction: column;
   align-items: center;

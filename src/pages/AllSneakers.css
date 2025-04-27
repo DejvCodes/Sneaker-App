@@ -4,11 +4,11 @@ section.all-sneakers-section {
   justify-content: center;
 }
 section.all-sneakers-section .container {
-  /* max-width: 1270px; */
+  max-width: 1270px;
   display: flex;
   flex-direction: column;
   align-items: center;
-  margin: 40px 90px 70px 90px;
+  margin: 40px 20px 70px 20px;
 }
 section.all-sneakers-section .container h2 {
   font-size: 26px;
