@@ -1,5 +1,4 @@
 section.one-sneaker-details-section {
-  height: 95vh;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -174,6 +173,7 @@ section.one-sneaker-details-section .container {
 
 @media screen and (max-width: 750px) {
   section.one-sneaker-details-section .container {
+    max-width: 1270px;
     display: flex;
     flex-direction: column;
     align-items: center;
