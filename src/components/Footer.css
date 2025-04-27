@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&display=swap");
+
+footer {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #191919;
+}
+footer p {
+  color: #C8C8C8;
+  font-size: 14px;
+  font-family: "Josefin Sans", serif;
+  padding: 12px;
+}
+footer p a {
+  color: #909090;
+  transition: all 0.2s linear;
+}
+footer p a:hover {
+  color: #FFFFFF;
+}
