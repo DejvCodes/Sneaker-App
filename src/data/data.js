@@ -201,7 +201,7 @@ const data = [
     id: 12,
     brand: "NIKE",
     fullName: "Nike SB Dunk High Supreme By Any Means ",
-    name: "Nike SB Dunk High Supreme",
+    name: "Dunk High Supreme",
     type: "By Any Means Black White",
     price: 6503,
     image: "https://cdn.myshoptet.com/usr/www.sneakerstore.cz/user/shop/big/687_nike-sb-dunk-high-supreme-by-any-means-black-white-1-1000.png?623b614d",
