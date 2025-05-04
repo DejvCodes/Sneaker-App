@@ -197,6 +197,24 @@ const data = [
     sneakerCode: "ID7029",
     styleColor: "#259b70",
   },
+  {
+    id: 12,
+    brand: "NIKE",
+    fullName: "Nike SB Dunk High Supreme By Any Means ",
+    name: "Nike SB Dunk High Supreme",
+    type: "By Any Means Black White",
+    price: 6503,
+    image: "https://cdn.myshoptet.com/usr/www.sneakerstore.cz/user/shop/big/687_nike-sb-dunk-high-supreme-by-any-means-black-white-1-1000.png?623b614d",
+    images: [
+      "https://cdn.myshoptet.com/usr/www.sneakerstore.cz/user/shop360/big/687_nike-sb-dunk-high-supreme-by-any-means--black-white.jpg?624af7e5",
+      "https://cdn.myshoptet.com/usr/www.sneakerstore.cz/user/shop/big/687-1_nike-sb-dunk-high-supreme-by-any-means-black-white-2-1000.png?623b6156",
+      "https://cdn.myshoptet.com/usr/www.sneakerstore.cz/user/shop/big/687_nike-sb-dunk-high-supreme-by-any-means-black-white-1-1000.png?623b614d",
+    ],
+    season: ["Jaro"],
+    info: "Supreme By Any Means Black White jsou vysoké pánské tenisky, které na svém svršku kombinují černou, bílou a červenou barvu. Jedná se o limitovanou edici vytvořenou za spolupráce oblíbené americké skateboardové značky Supreme.",
+    sneakerCode: "DN3741-002",
+    styleColor: "#adadad",
+  },
 ]
 
 export default data
