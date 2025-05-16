@@ -14,7 +14,7 @@ This app allows users to browse and search for sneakers, view detailed product i
 ## 📱 Screenshots
 <img src="/src/images/sneakers-app-1.jpg" width="350"> <img src="/src/images/sneakers-app-2.jpg" width="350">
 
-## 🏃🏻 How to Run this App
+## 🏃🏻 How to Run this App 
 1. Clone the repository: <br>
     • git clone https://github.com/DejvCodes/Sneakers-App.git <br>
     • cd Sneakers-App <br>
